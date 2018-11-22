@@ -1,10 +1,11 @@
 # tic-tac-toe
 
-simple tic-tac-toe web application for SE100
+simple tic-tac-toe web application for SE100 Shanghai Jiao Tong University
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project demo is also published at https://kmykoh97.github.io/tic-tac-toe/ using npm library: gh-pages
+
 Feel free to try it out!
 
 ## Available Scripts
