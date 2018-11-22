@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Game from './Components/Game/game'
-import './index.css';
+import React from "react";
+import ReactDOM from "react-dom";
+import Game from "./Components/Game/game";
+import "./index.css";
 
 // ========================================
 
